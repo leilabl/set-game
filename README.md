@@ -14,6 +14,7 @@ This game also accepts the generation of decks with an arbitrary number of cards
 In order to form a set, all cards must either:
 
 a) have all distinct values for each property, or
+
 b) have all equal values to a number of properties, but at least in one property all cards must have distinct values.
 
 For example, if two cards have equal values for the same property but a third card has a different value that is not a valid set.
