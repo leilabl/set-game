@@ -1,6 +1,5 @@
 #Set Game
 
--------
 
 ###Overview
 
@@ -19,9 +18,9 @@ b) have all equal values to a number of properties, but at least for one propert
 
 For example, if two cards have equal values for the same property but a third card has a different value that is not a valid set.
 
--------
 
-##Installation for the tests
+
+##How to run the tests
 
 In order to run the test you need [Node](https://nodejs.org) version 0.10+ install.
 
