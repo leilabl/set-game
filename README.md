@@ -28,4 +28,4 @@ Once you have Node installed, download or clone the repository and in your comma
 
 ```npm install testem```
 
-Once installed just type `testem` in your terminal and go to `localhost:7357` to see the test results.
+Once installed, just type `testem` in your terminal and go to `localhost:7357` in your browser to see the test results.
